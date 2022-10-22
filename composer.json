@@ -1,0 +1,22 @@
+{
+    "name": "epaard/module-whatsapp",
+    "description": "Whatsapp module. direct whatsapp contact with product sku or link",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "epaard.com",
+            "email": "ceo@epaard.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Epaard\\Whatsapp\\": ""
+        }
+    }
+}
