@@ -1,4 +1,4 @@
-# magento2 ZaazSoft QrCode
+# magento2 Epaard whatsapp number Extension
 
     ``epaard/module-whatsapp"``
 
